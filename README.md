@@ -5,5 +5,7 @@ The final project for Udacity's Relational Databases Course--Lesson 5
 The project included the design and implementation of a postgres database and python interface to coordinate player pairings in a Swiss-system tournament.
 
 *tournament.sql sets up the database.
+
 *tournament.py is the python interface to the database.
+
 *tournament_test.py is a test script that checks tournament.py for correct functionality.
